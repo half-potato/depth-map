@@ -1,0 +1,8 @@
+prefix=/home/amai/catkin_workspace/src/depth_map/build/devel
+
+Name: depth_map
+Description: Description of depth_map
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/amai/catkin_workspace/src/depth_map/build/devel/lib 
+Requires: 

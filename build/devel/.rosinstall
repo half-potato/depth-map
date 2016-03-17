@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/amai/catkin_workspace/src/depth_map/build/devel/setup.sh
